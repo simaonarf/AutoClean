@@ -34,7 +34,11 @@ Este é um sistema interno de gerenciamento desenvolvido para estabelecimentos d
 
 ### Passo a Passo da Instalação
 
+
 **1. Clone o repositório e acesse a pasta do projeto:**
 ```bash
 git clone git remote add origin https://github.com/simaonarf/AutoClean.git
 cd AutoClean
+```
+## Print da aplicação
+<img width="1828" height="925" alt="Captura de tela de 2026-06-21 15-43-26" src="https://github.com/user-attachments/assets/5e5083ae-aac9-4183-920c-0c9d76df36f2" />
