@@ -23,5 +23,5 @@ Este é um sistema interno de gerenciamento desenvolvido para estabelecimentos d
 
 **1. Clone o repositório e acesse a pasta do projeto:**
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd nome-da-pasta-do-projeto
+git clone git remote add origin https://github.com/simaonarf/AutoClean.git
+cd AutoClean
