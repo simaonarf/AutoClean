@@ -10,6 +10,19 @@ Este é um sistema interno de gerenciamento desenvolvido para estabelecimentos d
 - **Banco de Dados:** SQLite (foco em simplicidade e portabilidade)
 - **Front-end:** Blade Templates + Tailwind CSS
 
+## Aplicação dos módulos da disciplina
+**1.** Roteamento no Laravel
+
+**2.** Views com Blade
+
+**3.** Estilização com TailwindCss
+
+**4.** Forms e Validação de requisições
+
+**5.** Autenticação de Usuários
+
+**6.** Migrações e Relacionamentos
+
 ---
 
 ## Executar o Projeto
